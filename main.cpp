@@ -1,7 +1,5 @@
-#include <iostream>
-using namespace std;
-
-int main() {
-    cout << "git\n";
+#include<stdio.h>
+int main(void){
+    printf("hello world¥n");
     return 0;
 }
