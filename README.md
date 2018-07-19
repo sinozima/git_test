@@ -1,4 +1,1 @@
-# GitとGitHubの講習用リポジトリ
-
-つかってね
-
+my name is sinozima
